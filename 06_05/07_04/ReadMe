@@ -1,0 +1,5 @@
+$ npm install -g httpster
+
+then
+
+$ httpster -p 3000 -d ./public/
