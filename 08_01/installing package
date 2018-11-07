@@ -1,0 +1,4 @@
+$ npm init //for creating package.json file
+$ npm install express --save
+$ npm install cors --save
+$ npm install body-parser --save
